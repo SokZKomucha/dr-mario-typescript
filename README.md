@@ -1,4 +1,4 @@
-_README is in Polish. For English description, refer to repo's "About me"._
+_README is in Polish. For English description, refer to repo's "About"._
 
 ### Instrukcja obsługi
 
