@@ -1,3 +1,5 @@
+_README is in Polish. For English description, refer to repo's "About me"._
+
 ### Instrukcja obsługi
 
 Projekt zrobiony, aczkolwiek jest kilka wymagań, które trzeba spełnić, by działał tak, jak powinien.
